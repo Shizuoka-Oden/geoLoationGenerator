@@ -1,0 +1,2 @@
+# geoLoationGenerator
+住所データを元に軽度緯度情報を取得してファイルに書き出す
